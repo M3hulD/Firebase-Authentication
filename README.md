@@ -1,7 +1,7 @@
 # cn_app
 
 A new Flutter project.
-by Mehul 
+by Mehul
 
 ## Getting Started
 
