@@ -48,4 +48,6 @@ google_sign_in - A Flutter plugin for Google Sign-In.
 
 `Firebase Authentication` is available under the MIT license. See the [`LICENSE`](https://opensource.org/license/mit/) file for more info.
 
-<h2> Screenshots <h2>
+# Screenshots
+
+<img src="https://raw.githubusercontent.com/M3hulD/Firebase-Authentication/main/Screenshots/Screenshot_1679582321.png" alt="project-screenshot" width="800" height="450/">
