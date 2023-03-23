@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233952460253",
+    "project_id": "cn-auth-1a28f",
+    "storage_bucket": "cn-auth-1a28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233952460253:android:728f242ca51b70a18e0a34",
+        "android_client_info": {
+          "package_name": "com.example.cn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233952460253-kvfj1cjhf4jaapsuqlnpkok0kled1kv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBypjUJl2SWnxyGOT17gVb1KaSmMplnAoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233952460253-kvfj1cjhf4jaapsuqlnpkok0kled1kv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
