@@ -50,4 +50,10 @@ google_sign_in - A Flutter plugin for Google Sign-In.
 
 # Screenshots
 
+<img src="https://raw.githubusercontent.com/M3hulD/Firebase-Authentication/main/Screenshots/Screenshot_1679582327.png" alt="project-screenshot" width="400" height="900/">
+
 <img src="https://raw.githubusercontent.com/M3hulD/Firebase-Authentication/main/Screenshots/Screenshot_1679582321.png" alt="project-screenshot" width="400" height="900/">
+
+<img src="https://raw.githubusercontent.com/M3hulD/Firebase-Authentication/main/Screenshots/Screenshot_1679582352.png" alt="project-screenshot" width="400" height="900/">
+
+<img src="https://raw.githubusercontent.com/M3hulD/Firebase-Authentication/main/Screenshots/Screenshot_1679583139.png" alt="project-screenshot" width="400" height="900/">
